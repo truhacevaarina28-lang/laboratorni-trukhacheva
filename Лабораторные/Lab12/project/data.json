@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Восхождение на Эльбрус",
+    "category": "горы",
+    "amount": 42,
+    "completed": true
+  },
+  {
+    "id": 2,
+    "title": "Тропа по Воронежскому заповеднику",
+    "category": "лес",
+    "amount": 15,
+    "completed": false
+  },
+  {
+    "id": 3,
+    "title": "Сплав на байдарках по реке Дон",
+    "category": "вода",
+    "amount": 55,
+    "completed": true
+  },
+  {
+    "id": 4,
+    "title": "Поход к плато Бермамыт",
+    "category": "горы",
+    "amount": 28,
+    "completed": false
+  }
+]
